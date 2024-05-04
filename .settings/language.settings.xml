@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project>
     	
-    <configuration id="fr.ac6.ide.wise.managedbuild.projecttype.exe.config.debug.851374025" name="Debug">
+    <configuration id="fr.ac6.ide.wise.managedbuild.projecttype.exe.config.debug.935302384" name="Debug">
         		
         <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
             			
@@ -11,7 +11,7 @@
             			
             <provider-reference id="org.eclipse.cdt.managedbuilder.core.MBSLanguageSettingsProvider" ref="shared-provider"/>
             			
-            <provider class="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" console="false" env-hash="25037530856742166" id="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" keep-relative-paths="false" name="WiSE Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
+            <provider class="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" console="false" env-hash="57979892803020827" id="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" keep-relative-paths="false" name="WiSE Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
                 				
                 <language-scope id="org.eclipse.cdt.core.gcc"/>
                 				
@@ -23,7 +23,7 @@
         	
     </configuration>
     	
-    <configuration id="fr.ac6.ide.wise.managedbuild.projecttype.exe.config.release.329937750" name="Release">
+    <configuration id="fr.ac6.ide.wise.managedbuild.projecttype.exe.config.release.2022522712" name="Release">
         		
         <extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
             			
@@ -33,7 +33,7 @@
             			
             <provider-reference id="org.eclipse.cdt.managedbuilder.core.MBSLanguageSettingsProvider" ref="shared-provider"/>
             			
-            <provider class="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" console="false" env-hash="19431972808000904" id="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" keep-relative-paths="false" name="WiSE Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
+            <provider class="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" console="false" env-hash="66213048072534569" id="fr.ac6.ide.wise.managedbuild.core.BuiltinSpecsDetector" keep-relative-paths="false" name="WiSE Built-in Compiler Settings" parameter="${COMMAND} ${FLAGS} -E -P -v -dD &quot;${INPUTS}&quot;" prefer-non-shared="true">
                 				
                 <language-scope id="org.eclipse.cdt.core.gcc"/>
                 				

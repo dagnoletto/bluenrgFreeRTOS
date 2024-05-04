@@ -959,7 +959,7 @@ void SystemInit(void)
   * The application can modify the interrupts priority.
   * The  PendSV_IRQn and BLUE_CTRL_IRQn SHALL maintain the highest priority
   */
-  NVIC_SetPriority(PendSV_IRQn,    HIGH_PRIORITY);
+  NVIC_SetPriority(PendSV_IRQn,    LOW_PRIORITY);
   NVIC_SetPriority(SysTick_IRQn,   LOW_PRIORITY);
   NVIC_SetPriority(GPIO_IRQn,      LOW_PRIORITY);
   NVIC_SetPriority(NVM_IRQn,       LOW_PRIORITY);
