@@ -200,8 +200,8 @@ void StartDefaultTask(void *argument)
 		osDelay(250);
 		GPIO_ToggleBits(Get_LedGpioPin(LED2));
 		osDelay(250);
-		//GPIO_ToggleBits(Get_LedGpioPin(LED3));
-		//osDelay(250);
+		GPIO_ToggleBits(Get_LedGpioPin(LED3));
+		osDelay(250);
 	}
 	/* USER CODE END 5 */
 }
