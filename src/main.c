@@ -43,8 +43,6 @@ typedef StaticTimer_t osStaticTimerDef_t;
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
 
-/* USER CODE END PM */
-
 /* Private variables ---------------------------------------------------------*/
 /* Definitions for defaultTask */
 osThreadId_t defaultTaskHandle;
