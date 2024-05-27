@@ -98,7 +98,7 @@ void Callback01(void *argument);
 int main(void)
 {
 	/* System initialization function */
-	SystemInit();
+	SystemInit(); /* A.Souza - please consider this */
 
 	/* Identify BlueNRG1 platform */
 	SdkEvalIdentification();
